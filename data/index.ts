@@ -75,7 +75,7 @@ export const projects = [
     title: "Created a RAG Product using Llama-index",
     des: "Developed a Retrieval-Augmented Generation (RAG) product leveraging Llama-index, an open-source library for building question-answering systems",
     img: "/rag_llama.png",
-    iconLists: ["/python.svg", "/openai.png", "/docker.png", "/hf-logo.png", "/rag.svg"],
+    iconLists: ["/langchain.png", "/openai.png", "/docker.png", "/hf-logo.png", "/llama-index.png"],
     link: "https://github.com/Suvakanta8",
   },
   {
@@ -83,7 +83,7 @@ export const projects = [
     title: "SQL Query Builder from Natural language",
     des: "An AI-powered system that generates SQL queries directly from natural language input, leveraging OpenAI's language model and a custom-trained model for accurate translation.",
     img: "/text2sql.svg",
-    iconLists: ["/python.svg", "/openai.png", "/docker.png", "/hf-logo.png", "/rag.svg"],
+    iconLists: ["/langchain.png", "/openai.png", "/docker.png", "/hf-logo.png", "/llama-index.png"],
     link: "https://github.com/Suvakanta8",
   },
   {
@@ -91,7 +91,7 @@ export const projects = [
     title: "Competitor Monitoring AI Tool​",
     des: "To provide timely updates on competitors' activities by monitoring their news, projects, and relevant articles from Google News.​",
     img: "/monitoring.svg",
-    iconLists: ["/python.svg", "/openai.png", "/docker.png", "/hf-logo.png", "/rag.svg"],
+    iconLists: ["/langchain.png", "/openai.png", "/docker.png", "/hf-logo.png", "/llama-index.png"],
     link: "https://github.com/Suvakanta8",
   },
   {
@@ -99,7 +99,7 @@ export const projects = [
     title: "Improve E-commerce Seller Operations with AI",
     des: "Engineered an e-commerce AI platform using generative AI and Langchain for improved seller operations",
     img: "/ecom.svg",
-    iconLists: ["/python.svg", "/openai.png", "/docker.png", "/hf-logo.png", "/rag.svg"],
+    iconLists: ["/langchain.png", "/openai.png", "/docker.png", "/hf-logo.png", "/llama-index.png"],
     link: "https://github.com/Suvakanta8",
   },
 ];
