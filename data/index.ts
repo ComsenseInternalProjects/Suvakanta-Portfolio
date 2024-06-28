@@ -76,7 +76,7 @@ export const projects = [
     des: "Developed a Retrieval-Augmented Generation (RAG) product leveraging Llama-index, an open-source library for building question-answering systems",
     img: "/rag_llama.png",
     iconLists: ["/langchain.png", "/openai.png", "/docker.png", "/hf-logo.png", "/llama-index.png"],
-    link: "https://github.com/Suvakanta8",
+    link: "https://drive.google.com/drive/folders/1gCzpDuWUhn4ayaYVUeQSFco6vSW_VYD_?usp=sharing",
   },
   {
     id: 2,
@@ -84,7 +84,7 @@ export const projects = [
     des: "An AI-powered system that generates SQL queries directly from natural language input, leveraging OpenAI's language model and a custom-trained model for accurate translation.",
     img: "/text2sql.svg",
     iconLists: ["/langchain.png", "/openai.png", "/docker.png", "/hf-logo.png", "/llama-index.png"],
-    link: "https://github.com/Suvakanta8",
+    link: "https://drive.google.com/drive/folders/17aufaNKrD_asowr6ZVJdww1Tzu_PQH5V?usp=sharing",
   },
   {
     id: 3,
@@ -92,7 +92,7 @@ export const projects = [
     des: "To provide timely updates on competitors' activities by monitoring their news, projects, and relevant articles from Google News.​",
     img: "/monitoring.svg",
     iconLists: ["/langchain.png", "/openai.png", "/docker.png", "/hf-logo.png", "/llama-index.png"],
-    link: "https://github.com/Suvakanta8",
+    link: "https://drive.google.com/drive/folders/10VzC7cwGBKfUDBRTJ3RKTRZF0_Ma-fP4?usp=sharing",
   },
   {
     id: 4,
@@ -100,7 +100,7 @@ export const projects = [
     des: "Engineered an e-commerce AI platform using generative AI and Langchain for improved seller operations",
     img: "/ecom.svg",
     iconLists: ["/langchain.png", "/openai.png", "/docker.png", "/hf-logo.png", "/llama-index.png"],
-    link: "https://github.com/Suvakanta8",
+    link: "https://drive.google.com/drive/folders/1DNiltbkDUXj9bENCxM8hwUfnxeQb6Q-E?usp=sharing",
   },
 ];
 
