@@ -47,7 +47,7 @@ const RecentProjects = () => {
                     href={link}
                     target="_blank"
                   >
-                    Find my Work on Github
+                    Watch the Demo Video
                   </a>
                   <FaLocationArrow className="ms-3" color="#CBACF9" />
                 </div>
